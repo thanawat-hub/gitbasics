@@ -1,0 +1,14 @@
+git log => see log commit
+
+options log => git help log or git --help log or git log --help
+git log -n [#commits]
+git log -n [#commits] --pretty=oneline
+git log --since=2020-02-28
+git log --until=year-month-day
+#since same until = parameters
+git log --author=[your name]
+git log --grep="init" 
+#ดู คอมเม้นที่มีคำว่า init 
+f => foward
+q => quit
+
